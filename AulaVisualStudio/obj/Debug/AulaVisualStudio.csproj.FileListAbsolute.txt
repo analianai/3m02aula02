@@ -1,0 +1,8 @@
+C:\Users\Anália Emília Souza\Documents\respositorio\m03\aula02\AulaVisualStudio\AulaVisualStudio\bin\Debug\AulaVisualStudio.exe.config
+C:\Users\Anália Emília Souza\Documents\respositorio\m03\aula02\AulaVisualStudio\AulaVisualStudio\bin\Debug\AulaVisualStudio.exe
+C:\Users\Anália Emília Souza\Documents\respositorio\m03\aula02\AulaVisualStudio\AulaVisualStudio\bin\Debug\AulaVisualStudio.pdb
+C:\Users\Anália Emília Souza\Documents\respositorio\m03\aula02\AulaVisualStudio\AulaVisualStudio\obj\Debug\AulaVisualStudio.csproj.AssemblyReference.cache
+C:\Users\Anália Emília Souza\Documents\respositorio\m03\aula02\AulaVisualStudio\AulaVisualStudio\obj\Debug\AulaVisualStudio.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anália Emília Souza\Documents\respositorio\m03\aula02\AulaVisualStudio\AulaVisualStudio\obj\Debug\AulaVisualStudio.csproj.CoreCompileInputs.cache
+C:\Users\Anália Emília Souza\Documents\respositorio\m03\aula02\AulaVisualStudio\AulaVisualStudio\obj\Debug\AulaVisualStudio.exe
+C:\Users\Anália Emília Souza\Documents\respositorio\m03\aula02\AulaVisualStudio\AulaVisualStudio\obj\Debug\AulaVisualStudio.pdb
