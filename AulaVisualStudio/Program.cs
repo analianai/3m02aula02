@@ -11,6 +11,7 @@ namespace AulaVisualStudio
         static void Main(string[] args)
         {
             Console.WriteLine("Olá, mundo!");
+            Console.WriteLine(1 + 1);
         }
     }
 }
